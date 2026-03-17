@@ -1,0 +1,6 @@
+print("Name Reshma Ravindran K")
+print("Address Thrippakkal House")
+print("Place Mannuthy,Thrissur")
+print("pinode 680651")
+print("PhoneNo 8281309282")
+print("Emailid reshmakallayil89@gmail.com")

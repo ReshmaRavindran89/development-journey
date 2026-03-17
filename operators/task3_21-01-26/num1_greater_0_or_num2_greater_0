@@ -1,0 +1,7 @@
+
+# W.A.P to 10. Read two numbers and print the result of
+#number1 > 0 or number2 > 0.
+
+n1 = int(input("number 1: "))
+n2 = int(input("Number 2: "))
+print(n1 > 0 or n2 > 0)

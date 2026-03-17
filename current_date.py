@@ -1,0 +1,1 @@
+print("currentdate 14-01-2026")

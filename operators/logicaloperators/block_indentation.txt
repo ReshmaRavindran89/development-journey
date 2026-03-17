@@ -1,0 +1,18 @@
+food:
+    Beakfast:
+        idly
+        dosa
+        tea
+    lunch:
+        meals
+    snacks:
+        cutlet
+
+Movies:
+    Malayalam:
+        Pharma
+    Thamil:
+        Leo
+    kannada:
+        KGF
+        Kantara               

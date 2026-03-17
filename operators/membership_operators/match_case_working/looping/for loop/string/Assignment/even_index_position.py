@@ -1,0 +1,9 @@
+
+# Write a program to print elements present at even index positions.
+
+nums = [10, 20, 30, 40, 50, 60]
+
+for i in range(0, len(nums), 2):
+
+    print(nums[i])
+    
